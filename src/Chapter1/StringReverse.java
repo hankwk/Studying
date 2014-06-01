@@ -1,3 +1,4 @@
+package Chapter1;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.HashMap;
@@ -21,7 +22,7 @@ public class StringReverse{
 			
 
 		}
-	
+	//exercise 1.2
 	public static String reverse(String toReverse){
 		String answer = null;
 		for(int i = toReverse.length() - 1; i > -1; i--){

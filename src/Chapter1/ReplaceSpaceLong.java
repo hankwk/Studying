@@ -1,3 +1,4 @@
+package Chapter1;
 
 public class ReplaceSpaceLong {
 
@@ -9,6 +10,12 @@ public class ReplaceSpaceLong {
 		
 		System.out.println(replace(test));
 
+	}
+	
+	
+	public static String replace(String inputString){
+		
+		return "a";
 	}
 
 }
